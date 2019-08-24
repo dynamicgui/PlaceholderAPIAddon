@@ -1,1 +1,1 @@
-# PlaceholderAPIAddon
+# PlaceholderAPI Addon
